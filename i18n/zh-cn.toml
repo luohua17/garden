@@ -1,0 +1,65 @@
+[404_message]
+other = "暂不存在"
+
+[404_back]
+other = "回到主页"
+
+[all_posts]
+other = "全部 {{.Title}}"
+
+[last_updated]
+other = "上次更新"
+
+[notes_count]
+other = "带标签的笔记"
+
+[first_10]
+other = "展示前十个结果"
+
+[tag]
+other = "标签"
+
+[backlinks]
+other = "反向链接"
+
+[no_backlinks]
+other = "无反向链接"
+
+[home]
+other = "主页"
+
+[light_mode]
+other = "亮"
+
+[dark_mode]
+other = "暗"
+
+[edit_source]
+other = "编辑资源"
+
+[interactive_graph]
+other = "关系图谱"
+
+[search]
+other = "搜索"
+
+[search_icon]
+other = "搜索图标"
+
+[icon_search]
+other = "打开搜索"
+
+[recent_notes]
+other = "最近笔记"
+
+[first_3_notes]
+other = "最新 {{ .notes }}"
+
+[search_for_something]
+other = "搜索..."
+
+[toc]
+other = "桌面"
+
+[copyright]
+other = "Made by {{ .name }} using <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>, © {{ .year }}"
